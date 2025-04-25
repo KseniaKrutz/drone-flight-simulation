@@ -34,4 +34,4 @@ Feel free to reach out via [GitHub](https://github.com/KseniaKrutz) or add conta
 
 
 ## ⚡ Fun fact
-This project combines computer vision, procedural environments, and drone simulation in a way that’s as geeky as it is cool 😎
+This project combines  procedural environments, and drone simulation in a way that’s as geeky as it is cool 😎
